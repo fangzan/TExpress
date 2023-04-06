@@ -1,0 +1,8 @@
+{
+  "name":"a-tools",
+  "version":"1.0.0",
+  "main":"index.js",
+  "description": "提供基础的辅助方法",
+  "keywords": [],
+  "license": "ISC"
+}
